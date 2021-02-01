@@ -1,0 +1,4 @@
+// Chris Grimes
+// Lab Profiler
+
+The Bubble sort function took the longest, lthough it was only called once, I would suppose that this function took the longest because it had to manually sort 30000 numbers and it sorts the numbers one at a time. Bubble sort was also used to call all of the other functions which means that it would count its run time as well as the run time between its delegated function calls.
